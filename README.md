@@ -29,10 +29,14 @@ This project analyzes retail sales data to understand revenue drivers, profitabi
 - Higher discount levels correlate with declining profit margins, suggesting that aggressive discounting reduces profitability.
 
 ## Dashboard Preview
-
+- ![Overview](dashboard/Dashboard_Monthly_Sales.png)
+- ![Overview](dashboard/Dashboard_Profit_by_Sub-Category.png)
+- ![Overview](dashboard/Dashboard_Sales_by_Category.png)
 
 
 ## Files
 - /sql/analysis_queries.sql : SQL analysis queries
-- /dashboard/dashboard.png : Visualization
+- /dashboard/Dashboard_Monthly_Sales.png : Visualization
+- /dashboard/Dashboard_Profit_by_Sub-Category.png : Visualization
+- /dashboard/Dashboard_Dashboard_Sales_by_Category.png : Visualization
 - /dashboard/dashboard.pbix : Downloadable file
