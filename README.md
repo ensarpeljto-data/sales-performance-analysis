@@ -35,7 +35,7 @@ This project analyzes retail sales data to understand revenue drivers, profitabi
 
 
 ## Files
-- /sql/analysis_queries.sql : SQL analysis queries
+- /sql/analysis_query.sql : SQL analysis queries
 - /dashboard/Dashboard_Monthly_Sales.png : Visualization
 - /dashboard/Dashboard_Profit_by_Sub-Category.png : Visualization
 - /dashboard/Dashboard_Dashboard_Sales_by_Category.png : Visualization
