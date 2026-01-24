@@ -14,7 +14,7 @@ This project analyzes retail sales data to understand revenue drivers, profitabi
 
 ## Tools Used
 - SQL Server & SSMS
-- Excel for visualization
+- Power BI for visualization
 - GitHub for project versioning
 
 ## Key Insights
